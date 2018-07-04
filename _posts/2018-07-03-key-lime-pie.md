@@ -2,7 +2,9 @@
 title: Key Lime Pie
 ---
 
-# Ingredients
+## {{ page.title }}
+
+### Ingredients
 
 - 1 (9 inch) prepared graham cracker crust
 - 3 cups sweetened condensed milk
@@ -10,7 +12,7 @@ title: Key Lime Pie
 - 3/4 cup key lime juice
 - 1 tablespoon grated lime zest
 
-# Steps
+### Steps
 
 1. Preheat oven to 350 degrees F (175 degrees C).
 2. In a medium bowl, combine condensed milk, sour cream, lime juice, and lime rind. Mix well and pour into graham cracker crust.
