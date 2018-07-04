@@ -2,7 +2,7 @@
 title: Beef Stroganoff
 ---
 
-## {{ page.title }}
+## [{{ page.title }}](https://www.bettycrocker.com/recipes/classic-beef-stroganoff/c17a904f-a8f6-48ae-bedb-5b301a8ea317)
 
 ### Ingredients
 
