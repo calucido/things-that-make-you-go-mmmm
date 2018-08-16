@@ -13,7 +13,7 @@ title: Crispy Beef/Shrimp
 For the sauce:
 - 1/4 cup reduced sodium soy sauce
 - 1/4 cup brown sugar, packed
-- 2 tablespoons freshly squeezed orange juice
+- 2 tablespoons freshly squeezed orange juice (juice of 1/2 large orange)
 - 2 tablespoons rice vinegar
 - 2 cloves garlic, minced
 - 1 tablespoon freshly grated ginger
